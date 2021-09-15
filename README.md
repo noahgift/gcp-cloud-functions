@@ -1,5 +1,10 @@
 # gcp-cloud-functions
-quick demo
+quick demo of how to use GCP Functions
+
+
+Watch on Pragmatic AI Labs YouTube: https://lnkd.in/eteHWVw7
+Watch on O'Reilly Media: https://lnkd.in/eQ2YCjq
+
 
 ### Gotchas
 
@@ -12,6 +17,9 @@ gcloud functions call translate-wikipedia --data '{"entity":"facebook", "sentenc
 age":"es"}'
 
 ```
+
+
+
 
 ### Screenshot
 
